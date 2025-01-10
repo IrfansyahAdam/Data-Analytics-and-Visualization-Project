@@ -1,1 +1,0 @@
-# This project discusses the data analysis of rainfall patterns in the western Sumatra region based on bmkg daily climate data that has been processed and visualized with several variables, then the results of visualization and analysis will be associated with the impact of the Indian Ocean Dipole (IOD).
