@@ -1,3 +1,4 @@
 # Project-Analyze-Flute-Sound-with-FFT
 Comparative Analysis between Bansuri Flute and Sundanese Flute with Maximum Frequency of 4000 Hz was conducted to understand the differences in acoustic characteristics between the Bansuri Flute and Sundanese Flute based on the representation of audio features such as FFT, MFCC, ΔMFCC, and Δ²MFCC with Numpy, Matplotlib, and Librosa library. 
+
 The result is The sound characteristics of the Bansuri Flute are dominant in the low frequencies with high stability in dynamics and acceleration of harmonic changes. The instrument is ideal for soft and stable melodies, suitable for notes that require smoothness and continuity of sound. In contrast, the Sundanese Flute has a wider and more complex spread of energy, exhibiting more dynamic harmonic transitions and a higher acceleration of sound changes. This instrument is more suitable for playing with expressive tonal variations and dynamic playing techniques.
